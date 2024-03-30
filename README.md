@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmood Qanbary</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
-<img style="display:block;  margin-left: auto;   margin-right: auto;" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<div style="margin: 0 auto;">
+  <img style="display:block;  margin-left: auto;   margin-right: auto;" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodqanbary&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodqanbary" /> </p>
 
